@@ -1,0 +1,111 @@
+{
+  "license": "CC0-1.0",
+  "repositoryCommit": "440300901dfe9275fd84e0b7763af1f8443ae62e",
+  "samples": [
+    {
+      "name": "piano53",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Keys/Upright%20Piano/Player_dyn2_rr1_016.wav",
+      "sha256": "87b90b8161b5ddac5f1e81cce7895c726aff220e735586059c7ed684a5ae82dc",
+      "rootMidi": 53,
+      "sampleRate": 44100
+    },
+    {
+      "name": "piano61",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Keys/Upright%20Piano/Player_dyn2_rr1_020.wav",
+      "sha256": "dc314226819e7af0768cd7fc08933f5e5b550083145e05af630fd7556f4d3913",
+      "rootMidi": 61,
+      "sampleRate": 44100
+    },
+    {
+      "name": "piano69",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Keys/Upright%20Piano/Player_dyn2_rr1_024.wav",
+      "sha256": "a00ae1a2b2a78c154b067a9709afc1ce2d3be9f08d9f4ad3c9c869a7db80eb75",
+      "rootMidi": 69,
+      "sampleRate": 44100
+    },
+    {
+      "name": "piano77",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Keys/Upright%20Piano/Player_dyn2_rr1_028.wav",
+      "sha256": "84fe87bd24dc93d354213f730517a29f485c40715d5959af97976b364110b70a",
+      "rootMidi": 77,
+      "sampleRate": 44100
+    },
+    {
+      "name": "marimba60",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Marimba/Marimba_hit_Outrigger_C4_loud_01.wav",
+      "sha256": "4af539d47a452d7fad26e171b1c8adcca272cee97191f040d192680462c880b8",
+      "rootMidi": 72,
+      "sampleRate": 44100
+    },
+    {
+      "name": "marimba67",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Marimba/Marimba_hit_Outrigger_G4_loud_01.wav",
+      "sha256": "36f39f9f24789001add2b4c440defb7641178b0e8449c5cb7f1960bccaf0aaaf",
+      "rootMidi": 79,
+      "sampleRate": 44100
+    },
+    {
+      "name": "marimba84",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Marimba/Marimba_hit_Outrigger_C6_loud_01.wav",
+      "sha256": "2e42b1b6f6923f32e3daadc12b063e94d15af20fa410ddcb267eb906fd6e0e89",
+      "rootMidi": 96,
+      "sampleRate": 44100
+    },
+    {
+      "name": "glock72",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Glock/glock_medium_C5.wav",
+      "sha256": "635f898e0bcb6975b96b18efd9c896f6f1b97ff12174a339ada4814e49675660",
+      "rootMidi": 84,
+      "sampleRate": 44100
+    },
+    {
+      "name": "glock79",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Glock/glock_medium_G5.wav",
+      "sha256": "7045c0ef7260e2f1ad11a64406cf7575ed898d1207a91104d33d78caefac63e4",
+      "rootMidi": 91,
+      "sampleRate": 44100
+    },
+    {
+      "name": "pizz36",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/pizzT/pizzT_C1_v1_RR1.wav",
+      "sha256": "9032689650e38cb7a967616d15f3434bd52865637200e785bf89c3a1a88b29ce",
+      "rootMidi": 36,
+      "sampleRate": 44100
+    },
+    {
+      "name": "pizz48",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/pizzT/pizzT_C3_v1_RR1.wav",
+      "sha256": "63353870ad00cebe9882b96abcceae12480d37b78b62ded6228fb638871e8a81",
+      "rootMidi": 60,
+      "sampleRate": 44100
+    },
+    {
+      "name": "kick",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/BDrumNewhit_v1_rr1_Sum.wav",
+      "sha256": "dbd08796629b6987b64d03810b6d93f3a42dd7d05a15027b0af144bde46114fc",
+      "rootMidi": null,
+      "sampleRate": 44100
+    },
+    {
+      "name": "snare",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Snare2-taps_v1_rr1_Sum.wav",
+      "sha256": "caef1d3b27c07573c990b91ffbd203701dea76958e01736a4ad68fc2ce5bd198",
+      "rootMidi": null,
+      "sampleRate": 44100
+    },
+    {
+      "name": "tamb",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Tamb1-Shake_v1_rr1_Sum.wav",
+      "sha256": "b1d75eb17eef1ee45b5d31a8b185da34bfc682b83d2d283bd5ba94a0e1f0a670",
+      "rootMidi": null,
+      "sampleRate": 44100
+    },
+    {
+      "name": "triangle",
+      "source": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Percussion/Triangle3-Hit_v1_rr1_Sum.wav",
+      "sha256": "ec2eb51ef2d090b8b3e33622bf39db7520867d52ddf56ced088d7994807a3763",
+      "rootMidi": null,
+      "sampleRate": 44100
+    }
+  ]
+}

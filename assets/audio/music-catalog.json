@@ -1,0 +1,42 @@
+{
+  "revision": "0.3.3",
+  "tracks": [
+    {
+      "scene": "lobby",
+      "title": "Summer Car Ride",
+      "artist": "FSM Team & < e s c p >",
+      "artistUrl": "https://www.escp.space",
+      "artistAdditionalUrl": "https://escp-music.bandcamp.com",
+      "slug": "fsm-team-escp-summer-car-ride",
+      "path": "fsm-team/mp3/fsm-team-escp-summer-car-ride.mp3",
+      "bpm": 104,
+      "page": "https://www.free-stock-music.com/fsm-team-escp-summer-car-ride.html",
+      "download": "https://www.free-stock-music.com/music/fsm-team/mp3/fsm-team-escp-summer-car-ride.mp3",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "ffb0a88ab43d4ddfbb48e72bf0b99f793a3891eac40649c3a140bb1bdd09d406",
+      "file": "music-lobby.mp3",
+      "sha256": "d33e10ab6a5ebf5ee0d4c5c31521367b543896b40e7a4af74bba262125664e1f",
+      "seconds": 73.84614583333334,
+      "changes": "32-bar excerpt after the 8-bar introduction; gain adjustment; 6 ms boundary fades; 48 kHz stereo MP3 encode. Original composition and production retained."
+    },
+    {
+      "scene": "play",
+      "title": "Joyful",
+      "artist": "Mixaund",
+      "artistUrl": "https://mixaund.bandcamp.com",
+      "slug": "mixaund-joyful",
+      "path": "mixaund/mp3/mixaund-joyful.mp3",
+      "bpm": 124,
+      "page": "https://www.free-stock-music.com/mixaund-joyful.html",
+      "download": "https://www.free-stock-music.com/music/mixaund/mp3/mixaund-joyful.mp3",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceSha256": "d4d5801035602b69d1d12a0779cc0d281fffb5b59afcaa8189e847dce742d9af",
+      "file": "music-play.mp3",
+      "sha256": "f5483975112602040928209089b3519c7473c1e625e9cd6c5d2b8bd14c808c2b",
+      "seconds": 61.93547916666667,
+      "changes": "32-bar excerpt after the 8-bar introduction; gain adjustment; 6 ms boundary fades; 48 kHz stereo MP3 encode. Original composition and production retained."
+    }
+  ]
+}
